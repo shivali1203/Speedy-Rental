@@ -10,30 +10,6 @@
 - Express.js
 - MongoDB
 
-## Technologies and Tools used in Project with the respective versions
-
-### Database
-
-| Sr. No. | Technology | Version |
-| :------ | :--------: | :-----: |
-| 1.      |  MongoDB   |   3.6   |
-
-### Programming Language and NPM Packages
-
-| Sr. No. |  Technology  | Version |
-| :------ | :----------: | :-----: |
-| 1.      |   React.js   | 17.0.2 |
-| 2.      |   Node.js    | 16.13.1 |
-| 3.      |   Stripe     | 8.194.0 |
-| 4.      |   Nodemon    |  2.0.7  |
-| 5.      |  Express.js  |  4.17.1   |
-| 6.      |   Mongoose   | 6.0.13  |
-| 7.      |  styled-components   |  5.3.3  |
-| 8.      |   uuid       |  8.3.2  |
-| 9.      |   react-redux       |  7.2.6 |
-
-
-
 ### [User Panel Demo](https://www.youtube.com/watch?v=l4MMxoHn__8) (click to open the video)
 [![user demo](https://img.youtube.com/vi/l4MMxoHn__8/sddefault.jpg)](https://www.youtube.com/watch?v=l4MMxoHn__8)
 
