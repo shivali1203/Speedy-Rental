@@ -1,4 +1,4 @@
-# Car-Rental-App
+# Speedy-Rental
 - It is a Rent a car website where Customers can book the cars by paying through Stripe. 
 - Admin can see the bookings and can manage the cars. 
 - If a car is booked for a time span no other customer can book the same car on same time span.
@@ -11,12 +11,6 @@
 - MongoDB
 
 ## Technologies and Tools used in Project with the respective versions
-
-### IDE
-
-| Sr. No. |     Technology     | Version |
-| :------ | :----------------: | :-----: |
-| 1.      | Visual Studio Code |  1.65   |
 
 ### Database
 
